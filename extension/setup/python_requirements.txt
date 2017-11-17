@@ -1,0 +1,14 @@
+# Required packages for ansible
+PyYAML
+Jinja2
+httplib2
+
+#ansible
+ansible
+
+#to speed up ansible vault
+cryptography
+
+
+#Requirements for modules
+pyvmomi

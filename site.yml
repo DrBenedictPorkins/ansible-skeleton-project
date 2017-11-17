@@ -1,0 +1,6 @@
+---
+# file: site.yml
+# master playbook
+- import_playbook: playbooks/common.yml
+  tags:
+    - all
