@@ -1,5 +1,5 @@
-# DevOps Ansible Project
-This repo houses the ansible project for the devops team.
+# Ansible Skeleton Project
+This is a skeleton project for creating new ansible projects.
 
 
 ## Pre-requisites
